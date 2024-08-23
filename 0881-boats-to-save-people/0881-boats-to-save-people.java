@@ -11,7 +11,7 @@ class Solution {
                 j--;
             }else{
                 boat++;
-                j--;;;
+                j--;
             }
         }
         return boat;
